@@ -1,0 +1,26 @@
+body {
+    background-color:gray;
+    font-family:Verdana;
+    margin:0;
+}
+a {
+    text-decoration:none;
+}
+
+.center {
+    text-align:center;
+}
+.color {
+    color:black;
+}
+
+/* Per */
+#Per {
+    color:black;
+    background-color:lightgray;
+    width:150px;
+    height:100px;
+    text-align:center;
+    margin-left:43%;
+    border-radius:50px;
+}

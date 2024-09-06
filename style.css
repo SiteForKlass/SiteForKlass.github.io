@@ -1,0 +1,54 @@
+body {
+    background-color:lightcoral;
+    font-family:Verdana;
+    margin:0;
+}
+button {
+    background-color:dodgerblue;
+    font-size:40px;
+    width:250px;
+    height:100px;
+    text-align:center;
+    border-radius:20px;
+}
+a {
+    text-decoration:none;
+}
+
+.left {
+    float:left;
+}
+.center {
+    text-align:center;
+}
+.Tcenter {
+    margin-left:38%;
+}
+.Tesis {
+    color:red;
+}
+.color {
+    color:black;
+}
+
+/* Per */
+#Per {
+    color:white;
+    background-color:black;
+    width:100%;
+    text-align:center;
+    border-radius:50px 50px 0px 0px;
+}
+#PerMin {
+    background-color:lightcoral;
+    width:250px;
+    height:100px;
+    text-align:center;
+    border-radius:30px;
+}
+.PerInden {
+    margin-left:30px;
+}
+.PerColor {
+    color:white;
+}
